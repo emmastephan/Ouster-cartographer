@@ -1,3 +1,4 @@
+
 [submodule "ouster_example"]
 	path = ouster_example
-	url = git@github.com:Miro001/ouster_example.git
+	url = https://github.com/emmastephan/ouster_example.git
