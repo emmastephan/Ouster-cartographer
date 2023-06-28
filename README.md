@@ -16,7 +16,7 @@ Further steps are run in the console:
     * source /opt/ros/melodic/setup.bash -> your path to ROS
     * mkdir -p oslam_ws/src  
     * cd oslam_ws
-    * git clone git@github.com:Miro001/Ouster-cartographer.git src
+    * git clone https://github.com/emmastephan/Ouster-cartographer.git src
     * cd src  
     * git submodule update --init --recursive
     * cd ..
