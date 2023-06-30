@@ -1,4 +1,1 @@
 
-[submodule "ouster_example"]
-	path = ouster_example
-	url = https://github.com/emmastephan/ouster_example.git
